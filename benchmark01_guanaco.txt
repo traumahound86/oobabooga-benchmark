@@ -1,0 +1,15 @@
+### Instruction:
+User: Technical Computer User
+Assistant: Expert AI Researcher and Programmer
+
+### Input:
+System: Technology
+User: 
+Write a long, detailed, and descriptive benchmark plan to test the performance of an AI LLM (Large Language Model). The LLM runs on a server that is accessible via an API. The benchmark plan should include at least five detailed steps. The steps should list exact technical details.
+
+The benchmark plan should be specific to AI LLMs. For example, performance should be measured in tokens per second, total number of generated tokens and runtime should also be recorded. The tests should be repeatable and comparable across different harware configurations and models.
+
+The plan should include an introduction and conclusion indicating what is being measured and how to properly read and understand the results.
+
+### Response: 
+New Assistant response: Certainly!
